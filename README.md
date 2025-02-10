@@ -1,14 +1,14 @@
 ## Hi there, I'm Nikhil Pujari
 
 <p align="center">
-<img width="20%" src="https://nikhilpujari.in/assets/images/LinkedInBanner.png"/>
+<img src="https://nikhilpujari.in/assets/images/LinkedInBanner.png"/>
 </p>
 
 
 - I'm a **Nikhil Pujari** pursuing my Master's of Science in Information Technology from **New York University**
-- Currently working as **Software Developer** at **NYU Wasserman Center** (Part-Time) in **New York*.
-- Last worked at **Amtrak as eCommerce Developer** in **Washington DC*
-- Worked as a **Software Developer** at **LTIMindtree** in **Mumbai*
+- Currently working as **Software Developer** at **NYU Wasserman Center** (Part-Time) in *New York*.
+- Last worked at **Amtrak as eCommerce Developer** in *Washington DC*
+- Worked as a **Software Developer** at **LTIMindtree** in *Mumbai*
 - Willing to contribute more in **Software Development and AI**
 
 
