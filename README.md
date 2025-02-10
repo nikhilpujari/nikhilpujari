@@ -49,4 +49,3 @@
 
 #### Certification
 - **AWS Cloud Practitioner**
-- 
