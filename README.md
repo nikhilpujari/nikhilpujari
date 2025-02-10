@@ -15,7 +15,7 @@
 ### Feel Free to Contact me.....
 
 <p align="center">
-	<a href="mailto:np2801@nyu.edu"><img alt="email" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png](https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000"/></a>
+	<a href="https://github.com/nikhilpujari"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/nikhil-pujari/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.nikhilpujari.in"><img alt="portfolio" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=111139&format=png&color=000000"/></a>
 	<a href="https://www.instagram.com/nikhilxpujari/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000"/></a>
