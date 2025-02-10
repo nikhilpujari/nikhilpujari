@@ -7,7 +7,7 @@
 
 - I'm a **Nikhil Pujari** pursuing my Master's of Science in Information Technology from **New York University**
 - I am **Nikhil Pujari**, pursuing a Master of Science in Information Technology from **New York University**
-- Currently working as **Software Developer** at the **NYU Wasserman Center** (Part-Time) in *New York*.
+- Currently working as **Software Developer** at the **NYU Wasserman Center** (Part-Time) in *New York*
 - Previously worked as an **eCommerce Developer at Amtrak** in *Washington DC*
 - Worked as a **Software Developer** at **LTIMindtree** in *Mumbai*
 - Eager to contribute more to **Software Development and AI**
@@ -49,4 +49,4 @@
 </p>
 
 #### Certification
-- **AWS Cloud Practitioner**
+- **AWS Cloud Practitioner** : [Verify certificate]([https://www.linkedin.com/in/yourusername](https://www.credly.com/badges/9b65632e-e334-4ec9-829a-4a11620db983))
