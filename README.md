@@ -6,10 +6,11 @@
 
 
 - I'm a **Nikhil Pujari** pursuing my Master's of Science in Information Technology from **New York University**
-- Currently working as **Software Developer** at **NYU Wasserman Center** (Part-Time) in *New York*.
-- Last worked at **Amtrak as eCommerce Developer** in *Washington DC*
+- I am **Nikhil Pujari**, pursuing a Master of Science in Information Technology from **New York University**
+- Currently working as **Software Developer** at the **NYU Wasserman Center** (Part-Time) in *New York*.
+- Previously worked as an **eCommerce Developer at Amtrak** in *Washington DC*
 - Worked as a **Software Developer** at **LTIMindtree** in *Mumbai*
-- Willing to contribute more in **Software Development and AI**
+- Eager to contribute more to **Software Development and AI**
 
 
 ### Feel Free to Contact me.....
