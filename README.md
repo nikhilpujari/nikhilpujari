@@ -40,7 +40,7 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=39292&format=png&color=000000"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=22813&format=png&color=000000"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/>
-	<img width="10%" style="padding:5px" src="hhttps://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000"/>
 	
