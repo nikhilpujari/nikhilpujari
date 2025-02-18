@@ -5,7 +5,7 @@
 </p>
 
 
-- I am **Nikhil Pujari**, pursuing a Master of Science in Information Technology from **New York University**
+- I am **Nikhil Pujari**, pursuing a Master of Science in Information Science from **New York University**
 - Currently working as **Software Developer** at the **NYU Wasserman Center** (Part-Time) in *New York*
 - Previously worked as an **eCommerce Developer at Amtrak** in *Washington DC*
 - Worked as a **Software Engineer** at **LTIMindtree** in *Mumbai*
