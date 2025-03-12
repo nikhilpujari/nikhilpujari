@@ -1,7 +1,7 @@
 ## Hi there, I'm Nikhil Pujari
 
 <p align="center">
-<img src="https://nikhilpujari.in/assets/images/LinkedInBanner.png"/>
+<img src="https://nikhilpujari.in/extra/LinkedInBanner.png"/>
 </p>
 
 
