@@ -5,10 +5,9 @@
 </p>
 
 
-- I am **Nikhil Pujari**, pursuing a Master of Science in Information Science from **New York University**
-- Currently working as **Software Developer** at the **NYU Wasserman Center** (Part-Time) in *New York*
-- Previously worked as an **eCommerce Developer at Amtrak** in *Washington DC*
-- Worked as a **Software Engineer** at **LTIMindtree** in *Mumbai*
+- I am **Nikhil Pujari**, completed by Master of Science in Information Science degree from **New York University**
+- During my grad degree worked with *Amtrak* and *Metlife* as a **Software Engineer** in the *United States*
+- Previously worked as a **Software Engineer** at *LTIMindtree* and *Hexaware*
 - Eager to contribute more to **Software Development and AI**
 
 
